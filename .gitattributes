@@ -1,0 +1,2 @@
+ShoppingList_files/* filter=lfs diff=lfs merge=lfs -text
+ShoppingList_files/* filter=lfs diff=lfs merge=lfs -text
