@@ -33,9 +33,9 @@ Prerequisites--->
 
 2. Optional: If you want to build from source, you'll need:
 
-3.Android Studio installed
+3. Android Studio installed
 
-4.Java Development Kit (JDK)
+4. Java Development Kit (JDK)
 
 Installation (for End Users)
 Download the APK:
@@ -47,3 +47,32 @@ On your Android device, go to Settings > Security (or Apps & notifications > Spe
 
 Install the APK:
 Locate the downloaded .apk file on your device (usually in the "Downloads" folder) and tap on it to begin the installation process. Follow the on-screen prompts.
+
+🚀 Usage
+Using the Simple Shopping List App is intuitive and efficient:
+
+1. Open the App: Tap on the "Shopping List" icon on your device's home screen or app drawer.
+
+       Add a New Item:
+
+       Look for an "Add Item" button or an input field.
+
+       Enter the item name (e.g., "Milk").
+
+       Enter the quantity (e.g., "2", "1 gallon").
+
+2. Tap "Add" or "Save" to add it to your list.
+
+3. Edit an Item:
+
+      Tap on an existing item in the list.
+
+      Modify the item name or quantity in the pop-up or editing view.
+
+      Tap "Save" or "Update" to confirm changes.
+
+4. Delete an Item:
+
+      Tap on "Delete" button Below the edit screen.
+
+      Confirm deletion if prompted.
